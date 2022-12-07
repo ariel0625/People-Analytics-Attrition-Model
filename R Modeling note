@@ -1,0 +1,44 @@
+資料探勘（Data mining）: 人工智慧、機器學習、統計學 
+
+Supervised learning 監督式學習
+Regression 迴歸：真實的’值’（股票、氣溫）
+Classification 分類：分兩類（P/N, Yes/No, M/F, Sick/Not sick）/分多類 (A/B/C/D)
+
+
+Unsupervised learning 非監督式學習
+Clustering 分群
+Association Rules 關聯式規則
+
+
+在監督式學習中常見的資料探勘演算法如下：
+
+（已知分群）
+
+Linear Regression 線性迴歸
+Logistic Regression 羅吉斯迴歸、邏輯迴歸
+Support Vector Machines 支持向量機
+Decision Trees 決策樹
+K-Nearest Neighbor
+Neural Networks 神經網路
+Deep Learning 深度學習
+
+
+在非監督式學習中常見的資料探勘演算法如下：
+
+(隨機分群)
+
+Hierarchical clustering 階層式分群
+K-means clustering
+Neural Networks 神經網路
+Deep Learning 深度學習
+
+
+
+Distance or similarity
+Continuous - euclidean distance
+Continuous - correlation similarity
+Binary - manhattan distance
+
+
+
+
